@@ -1,8 +1,7 @@
-# 📝 To-Do List in C,Java
+# 📝 To-Do List Application (C & Java)
 
-A simple command-line **To-Do List application** written in C as well as in Java using linked lists.  
-Users can add tasks with priority, display tasks, delete tasks, and mark them as completed.  
-Each task stores a description, priority level, and completion status.
+This repository contains a **To-Do List application** implemented in **C** and **Java**.  
+The project demonstrates the use of **linked lists, dynamic memory allocation, and user input handling** in both languages.
 
 ---
 
@@ -11,7 +10,7 @@ Each task stores a description, priority level, and completion status.
 - Display all tasks with status
 - Delete a task by name
 - Mark a task as **Completed**
-- Dynamic memory allocation using **linked list**
+- Uses **linked list** for dynamic storage
 
 ---
 
